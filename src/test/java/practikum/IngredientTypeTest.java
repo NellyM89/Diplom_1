@@ -15,6 +15,7 @@ public class IngredientTypeTest {
 
     @Before
     public void init() {
+
         MockitoAnnotations.initMocks(this);
     }
 
